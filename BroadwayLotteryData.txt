@@ -1,13 +1,11 @@
-
-"showList":{
+{"showList":{
 	
 	"aladdin":{
 		"name":"Aladdin", 
 		"theater":"New Amsterdam\n214 W. 42nd St\nbetween 7th and 8th", 
 		"price":30,
 		"url":"https://lottery.broadwaydirect.com/show/aladdin/",
-		"hidden":"NO",
-		"favorite":"NO"
+		"playbillName":"aladdin.jpg",
 		"times":{
 			"Tuesday":[19],
 			"Wednesday":[14,20],
@@ -36,8 +34,7 @@
 		"theater":"Palace\n1564 Broadway\nat 47th", 
 		"price":"40",
 		"url":"https://lottery.broadwaydirect.com/show/an-american-in-paris/",
-		"hidden":"NO",
-		"favorite":"NO"
+		"playbillName":"americaninparis.jpg",
 		"times":{
 			"Tuesday":[19],
 			"Wednesday":[14,20],
@@ -61,29 +58,144 @@
 			"Sunday":[0]}
 	},
 
-	"lionKing":{
-		"name":"The Lion King", 
-		"theater":"", 
-		"price":"30",
-		"url":"",
-		"hidden":"NO",
-		"favorite":"NO"
+	"americanPsycho":{
+		"name":"American Psycho", 
+		"theater":"Schoenfeld\n236 W. 45th St\nbetween 7th and 8th", 
+		"price":45,
+		"url":"http://americanpsycholottery.socialtoaster.com/",
+		"playbillName":"americanpsycho.jpg",
 		"times":{
-			"Tuesday":[19],
-			"Wednesday":[19],
-			"Thursday":[20],
-			"Friday":[20],
-			"Saturday":[14,20],
-			"Sunday":[13,18.5]},
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
 		"lotteryOpen":{
 			"Tuesday":[0],
-			"Wednesday":[7],
+			"Wednesday":[0],
 			"Thursday":[0],
 			"Friday":[0],
 			"Saturday":[0],
 			"Sunday":[0]},
 		"lotteryClose":{
-			"Tuesday":[9],
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"bookOfMormon":{
+		"name":"Book of Mormon", 
+		"theater":"O'Neill\n230 W. 49th St\nbetween Broadway and 8th", 
+		"price”:50,
+		"url":"https://jujamcyn.turnkeysurveyor.com/se/4D0A7D497B91C3FD",
+		"playbillName":"bookofmormon.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"crucible":{
+		"name":"The Crucible", 
+		"theater":"Walter Kerr\n219 W. 48th St\nbetween Broadway and 8th", 
+		"price":35,
+		"url":"https://jujamcyn.turnkeysurveyor.com/se/4D0A7D4978CA3CA3",
+		"playbillName":"crucible.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"curious":{
+		"name":"The Curious Incident of the\nDog in the Night-Time", 
+		"theater":"Barrymore\n243 W. 47th St\nbetween Broadway and 8th", 
+		"price":30,
+		"url":"http://curiousonbroadway.com/lottery.php",
+		"playbillName":"curious.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"fullyCommitted":{
+		"name":"Fully Committed", 
+		"theater":"Lyceum\n149 W. 45th St\nbetween 6th and 7th", 
+		"price":30,
+		"url":"http://fullycommittedlottery.socialtoaster.com/",
+		"playbillName":"fullycommitted.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
 			"Wednesday":[0],
 			"Thursday":[0],
 			"Friday":[0],
@@ -96,8 +208,7 @@
 		"theater":"Richard Rodgers\n226 W. 46th St\nbetween Broadway and 8th", 
 		"price":10,
 		"url":"https://lottery.broadwaydirect.com/show/hamilton/",
-		"hidden":"NO",
-		"favorite":"NO"
+		"playbillName":"hamilton.jpg",
 		"times":{
 			"Monday":[19],
 			"Tuesday":[19],
@@ -123,5 +234,324 @@
 			"Sunday":[0]}
 	},
 
+	"jerseyBoys":{
+		"name":"Jersey Boys", 
+		"theater":"August Wilson\n245 W. 52nd St\nbetween Broadway and 8th", 
+		"price”:37,
+		"url":"https://jujamcyn.turnkeysurveyor.com/se/4D0A7D495BA47CED",
+		"playbillName":"jerseyboys.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
 
+	"kinkyBoots":{
+		"name":"Kinky Boots", 
+		"theater":"Hirschfeld\n302 W. 45th St\nbetween 8th and 9th", 
+		"price":42,
+		"url":"https://jujamcyn.turnkeysurveyor.com/se/4D0A7D495B6F4C6E",
+		"playbillName":"kinkyboots.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"lesMiserables":{
+		"name":"Les Miserables", 
+		"theater":"Imperial\n249 W. 45th St\nbetween 7th and 8th", 
+		"price":37,
+		"url":"http://lesmiserableslottery.socialtoaster.com/",
+		"playbillName":"lesmis.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"lionKing":{
+		"name":"The Lion King", 
+		"theater":"Minskoff\n200 W. 45th St\nbetween 7th and 8th", 
+		"price":"30",
+		"url":"https://lottery.broadwaydirect.com/show/the-lion-king/",
+		"playbillName":"lionking.jpg",
+		"times":{
+			"Tuesday":[19],
+			"Wednesday":[19],
+			"Thursday":[20],
+			"Friday":[20],
+			"Saturday":[14,20],
+			"Sunday":[13,18.5]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[7],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[9],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"matilda":{
+		"name":"Matilda", 
+		"theater":"Shubert\n225 W. 44th St\nbetween 7th and 8th", 
+		"price":32,
+		"url":"http://www.matildalottery.com/",
+		"playbillName":"matilda.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+
+	"onYourFeet":{
+		"name":"On Your Feet!", 
+		"theater":"Marquis\n1535 Broadway\nat 46th", 
+		"price":40,
+		"url":"https://lottery.broadwaydirect.com/show/on-your-feet/",
+		"playbillName":"onyourfeet.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"phantomOfTheOpera":{
+		"name":"The Phantom of the Opera", 
+		"theater":"Majestic\n247 W. 44th St\nbetween 7th and 8th", 
+		"price":28,
+		"url":"http://www.phantombroadwaylottery.com/",
+		"playbillName":"phantom.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"schoolOfRock":{
+		"name":"School of Rock", 
+		"theater":"Winter Garden\n1634 Broadway\nat 49th", 
+		"price":37,
+		"url":"http://schoolofrocklottery.com/",
+		"playbillName":"schoolofrock.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"somethingRotten":{
+		"name":"Something Rotten!", 
+		"theater":"St. James\n246 W. 44th St\nbetween 7th and 8th", 
+		"price":35,
+		"url":"https://jujamcyn.turnkeysurveyor.com/se/4D0A7D4901A135F2",
+		"playbillName":"somethingrotten.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"tuckEverlasting":{
+		"name":"Tuck Everlasting", 
+		"theater":"Broadhurst\n235 W. 44th St\nbetween 7th and 8th", 
+		"price":40,
+		"url":"http://www.tuckeverlastinglottery.com/",
+		"playbillName":"tuckeverlasting.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	},
+
+	"wicked":{
+		"name":"Wicked", 
+		"theater":"Gershwin\n222 W. 51st St\nbetween Broadway and 8th", 
+		"price":35,
+		"url":"https://lottery.broadwaydirect.com/show/wicked/",
+		"playbillName":"wicked.jpg",
+		"times":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryOpen":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]},
+		"lotteryClose":{
+			"Tuesday":[0],
+			"Wednesday":[0],
+			"Thursday":[0],
+			"Friday":[0],
+			"Saturday":[0],
+			"Sunday":[0]}
+	}
+}
 }
