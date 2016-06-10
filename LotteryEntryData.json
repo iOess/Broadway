@@ -15,7 +15,7 @@
 	},
 	
 	"socialToaster":{
-		"string":"https://my.socialtoaster.com/st/",
+		"string":"https://my.socialtoaster.com/",
 		"userInfoArray":["name_first", "name_last", "email", "email"],
 		"idArray":["first-name", "last-name", "email", "email2"],
 		"checkedIDArray":["st_campaign_auto_post_off"]	
