@@ -15,10 +15,17 @@
 	},
 	
 	"socialToaster":{
-		"string":"https://my.socialtoaster.com/",
+		"string":"https://my.socialtoaster.com/st/",
 		"userInfoArray":["name_first", "name_last", "email", "email"],
 		"idArray":["first-name", "last-name", "email", "email2"],
 		"checkedIDArray":["st_campaign_auto_post_off"]	
+	},	
+
+	"socialToaster2":{
+		"string":"https://lottery.socialtoaster.com/step2",
+		"userInfoArray":["phone", "ticket_qty", "Yes"],
+		"idArray":["lottoTextNum", "lottoNumTickets","lottoFewerTickets"],
+		"checkedIDArray":["lottoAcceptTerms", "lottoNotifyText"]	
 	}	
 	}
 }
