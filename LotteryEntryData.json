@@ -22,9 +22,9 @@
 	},	
 
 	"socialToaster2":{
-		"string":"https://lottery.socialtoaster.com/step2",
-		"userInfoArray":["phone", "ticket_qty", "Yes"],
-		"idArray":["lottoTextNum", "lottoNumTickets","lottoFewerTickets"],
+		"string":"https://lottery.socialtoaster.com/",
+		"userInfoArray":["phone", "ticket_qty"],
+		"idArray":["lottoTextNum", "lottoNumTickets"],
 		"checkedIDArray":["lottoAcceptTerms", "lottoNotifyText"]	
 	}	
 	}
