@@ -564,6 +564,43 @@
 		}
 	},
 
+	"schoolOfRock":{
+		"name":"School of Rock", 
+		"theater":"Winter Garden\n1634 Broadway\nat 49th", 
+		"price":37,
+		"url":"http://schoolofrocklottery.com/",
+		"playbillName":"schoolofrock.jpg",
+		"lotteryTimes": {	"1":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":0,
+								"closeMinutes":0}],
+							"2":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"3":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"4":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"5":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"6":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"7":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}]
+		}
+	},
+
 	"somethingRotten":{
 		"name":"Something Rotten!", 
 		"theater":"St. James\n246 W. 44th St\nbetween 7th and 8th", 
