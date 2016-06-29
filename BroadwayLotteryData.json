@@ -324,7 +324,7 @@
 	"kinkyBoots":{
 		"name":"Kinky Boots", 
 		"theater":"Hirschfeld\n302 W. 45th St\nbetween 8th and 9th", 
-		"price":47,
+		"price":42,
 		"url":"https://jujamcyn.turnkeysurveyor.com/se/4D0A7D495B6F4C6E",
 		"playbillName":"kinkyboots.jpg",
 		"lotteryTimes": {	"1":[{"openHour":0,
@@ -567,7 +567,7 @@
 	"somethingRotten":{
 		"name":"Something Rotten!", 
 		"theater":"St. James\n246 W. 44th St\nbetween 7th and 8th", 
-		"price":35,
+		"price":40,
 		"url":"https://jujamcyn.turnkeysurveyor.com/se/4D0A7D4901A135F2",
 		"playbillName":"somethingrotten.jpg",
 		"lotteryTimes": {	"1":[{"openHour":0,
