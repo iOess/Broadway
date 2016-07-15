@@ -131,6 +131,43 @@
 		}
 	},
 
+	"cats":{
+		"name":"Cats", 
+		"theater":"Neil Simon\n250 W. 52nd St\nbetween Broadway and 8th ", 
+		"price":40,
+		"url":"https://lottery.broadwaydirect.com/show/cats/",
+		"playbillName":"cats.jpg",
+		"lotteryTimes": {	"1":[{"openHour":8,
+								"openMinutes":30,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"2":[{"openHour":8,
+								"openMinutes":30,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"3":[{"openHour":8,
+								"openMinutes":30,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"4":[{"openHour":8,
+								"openMinutes":30,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"5":[{"openHour":8,
+								"openMinutes":30,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"6":[{"openHour":8,
+								"openMinutes":30,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"7":[{"openHour":8,
+								"openMinutes":30,
+								"closeHour":10,
+								"closeMinutes":30}]
+		}
+	},
+
 	"crucible":{
 		"name":"The Crucible", 
 		"theater":"Walter Kerr\n219 W. 48th St\nbetween Broadway and 8th", 
