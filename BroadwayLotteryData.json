@@ -163,8 +163,12 @@
 								"closeMinutes":0}],
 							"7":[{"openHour":8,
 								"openMinutes":30,
-								"closeHour":10,
-								"closeMinutes":30}]
+								"closeHour":11,
+								"closeMinutes":0},
+								{"openHour":12,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}]
 		}
 	},
 
