@@ -460,6 +460,42 @@
 		}
 	},
 
+	"motown":{
+		"name":"Motown the Musical", 
+		"theater":"Nederlander\n208 W. 41st St\nbetween 7th and 8th", 
+		"price":32,
+		"url":"https://lottery.broadwaydirect.com/show/motown-the-musical/",
+		"playbillName":"motown.jpg",
+		"lotteryTimes": {	"1":[{"openHour":8,
+								"openMinutes":0,
+								"closeHour":11,
+								"closeMinutes":0}],
+							"2":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":0,
+								"closeMinutes":0}],
+							"3":[{"openHour":8,
+								"openMinutes":0,
+								"closeHour":14,
+								"closeMinutes":0}],
+							"4":[{"openHour":8,
+								"openMinutes":0,
+								"closeHour":14,
+								"closeMinutes":0}],
+							"5":[{"openHour":8,
+								"openMinutes":0,
+								"closeHour":14,
+								"closeMinutes":0}],
+							"6":[{"openHour":8,
+								"openMinutes":0,
+								"closeHour":14,
+								"closeMinutes":0}],
+							"7":[{"openHour":8,
+								"openMinutes":0,
+								"closeHour":14,
+								"closeMinutes":0}]
+		}
+	},
 
 	"onYourFeet":{
 		"name":"On Your Feet!", 
