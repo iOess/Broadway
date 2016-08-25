@@ -255,6 +255,48 @@
 
 	},
 
+"humans":{
+		"name":"The Humans", 
+		"theater":"Schoenfeld\n236 W. 45th St\nbetween 7th and 8th", 
+		"price":40,
+		"url":"http://www.humanslottery.socialtoaster.com/",
+		"playbillName":"humans.jpg",
+		"lotteryTimes": {	"1":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":0,
+								"closeMinutes":0}],
+							"2":[{"openHour":9,
+								"openMinutes":0,
+								"closeHour":16,
+								"closeMinutes":0}],
+							"3":[{"openHour":9,
+								"openMinutes":0,
+								"closeHour":16,
+								"closeMinutes":0}],
+							"4":[{"openHour":9,
+								"openMinutes":0,
+								"closeHour":16,
+								"closeMinutes":0}],
+							"5":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"6":[{"openHour":9,
+								"openMinutes":0,
+								"closeHour":16,
+								"closeMinutes":0}],
+							"7":[{"openHour":9,
+								"openMinutes":0,
+								"closeHour":11,
+								"closeMinutes":0},
+								{"openHour":12,
+								"openMinutes":0,
+								"closeHour":16,
+								"closeMinutes":0}]
+		}
+
+	},
+
 	"jerseyBoys":{
 		"name":"Jersey Boys", 
 		"theater":"August Wilson\n245 W. 52nd St\nbetween Broadway and 8th", 
