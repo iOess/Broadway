@@ -263,7 +263,7 @@
 		"playbillName":"humans.jpg",
 		"lotteryTimes": {	"1":[{"openHour":0,
 								"openMinutes":0,
-								"closeHour":15,
+								"closeHour":0,
 								"closeMinutes":0}],
 							"2":[{"openHour":0,
 								"openMinutes":0,
