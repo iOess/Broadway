@@ -172,42 +172,6 @@
 		}
 	},
 
-	"curious":{
-		"name":"The Curious Incident of the\nDog in the Night-Time", 
-		"theater":"Barrymore\n243 W. 47th St\nbetween Broadway and 8th", 
-		"price":30,
-		"url":"http://curiousonbroadway.com/lottery.php",
-		"playbillName":"curious.jpg",
-		"lotteryTimes": {	"1":[{"openHour":0,
-								"openMinutes":0,
-								"closeHour":10,
-								"closeMinutes":0}],
-							"2":[{"openHour":0,
-								"openMinutes":0,
-								"closeHour":0,
-								"closeMinutes":0}],
-							"3":[{"openHour":0,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}],
-							"4":[{"openHour":0,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}],
-							"5":[{"openHour":0,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}],
-							"6":[{"openHour":0,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}],
-							"7":[{"openHour":0,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}]
-		}
-	},
 
 	"hamilton":{
 		"name":"Hamilton", 
