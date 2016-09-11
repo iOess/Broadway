@@ -331,6 +331,43 @@
 		}
 	},
 
+	"lewisBlack":{
+		"name":"Lewis Black: Black to the Future", 
+		"theater":"Marquis\n1535 Broadway\nat 46th", 
+		"price":"40",
+		"url":"https://lottery.broadwaydirect.com/show/lewis-black-black-to-the-future/",
+		"playbillName":"lewisblack.jpg",
+		"lotteryTimes": {	"1":[{"openHour":8,
+								"openMinutes":0,
+								"closeHour":24,
+								"closeMinutes":0}],
+							"2":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"3":[{"openHour":10,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"4":[{"openHour":8,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"5":[{"openHour":10,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"6":[{"openHour":10,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"7":[{"openHour":8,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}]
+		}
+	},
+
 	"lionKing":{
 		"name":"The Lion King", 
 		"theater":"Minskoff\n200 W. 45th St\nbetween 7th and 8th", 
