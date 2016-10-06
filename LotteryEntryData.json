@@ -29,7 +29,7 @@
 	},	
 
 	"socialToaster2":{
-		"string":"https://lottery.socialtoaster.com/",
+		"string":"https://bcp.crwdcntrl.net/",
 		"userInfoArray":["phone", "ticket_qty"],
 		"idArray":["lottoTextNum", "lottoNumTickets"],
 		"checkedIDArray":["lottoAcceptTerms", "lottoNotifyText"]	
