@@ -7,18 +7,18 @@
 		"checkedIDArray":["dlslot_agree"]
 	},
 
+	"falsettos":{
+		"string":"https://jujamcyn.turnkeysurveyor.com/se/4D0A7D496BECB282",
+		"userInfoArray":["name_first", "name_last", "email", "email", "zip"],
+		"idArray":["Q4_1", "Q5_1", "Q6_1", "Q7_1", "Q10_1"],
+		"checkedIDArray":["Q30_1", "Q30_2", "Q30_3", "Q30_4", "Q30_5", "Q30_6", "Q30_7", "Q30_8"]
+	},
+	
 	"jujamcyn":{
 		"string":"https://jujamcyn.turnkeysurveyor.com/se/",
 		"userInfoArray":["name_first", "name_last", "email", "email", "zip", "zip", "phone"],
 		"idArray":["Q1_1", "Q2_1", "Q3_1", "Q18_1", "Q10_1", "Q12_1", "Q4_1"],
 		"checkedIDArray":["Q57_2", "Q5_2", "Q13_1", "Q12_1", "Q41_2", "Q17_1", "Q17_2", "Q17_3", "Q17_4", "Q17_5", "Q17_6", "Q17_7", "Q17_8", "Q20_1", "Q20_2", "Q20_3", "Q20_4", "Q20_5", "Q20_6", "Q20_7", "Q20_8", "Q39_1", "Q39_2", "Q39_3", "Q39_4", "Q39_5", "Q39_6", "Q39_7", "Q39_8", "Q56_1", "Q56_2", "Q56_3", "Q56_4", "Q56_5", "Q56_6", "Q56_7", "Q56_8", "Q60_1", "Q60_2", "Q60_3", "Q60_4", "Q60_5", "Q60_6", "Q60_7", "Q60_8"]
-	},
-
-	"falsettos":{
-		"string":"http://www.jujamcyn.com/lottery/falsettos.html",
-		"userInfoArray":["name_first", "name_last", "email", "email", "zip"],
-		"idArray":["Q4_1", "Q5_1", "Q6_1", "Q7_1", "Q10_1"],
-		"checkedIDArray":["Q30_1", "Q30_2", "Q30_3", "Q30_4", "Q30_5", "Q30_6", "Q30_7", "Q30_8"]
 	},
 	
 	"socialToaster":{
