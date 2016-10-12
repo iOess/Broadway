@@ -57,43 +57,6 @@
 		}
 	},
 
-	"anAmericanInParis":{
-		"name":"An American in Paris", 
-		"theater":"Palace\n1564 Broadway\nat 47th", 
-		"price":"40",
-		"url":"https://lottery.broadwaydirect.com/show/an-american-in-paris/",
-		"playbillName":"americaninparis.jpg",
-		"lotteryTimes": {	"1":[{"openHour":8,
-								"openMinutes":0,
-								"closeHour":11,
-								"closeMinutes":0}],
-							"2":[{"openHour":0,
-								"openMinutes":0,
-								"closeHour":0,
-								"closeMinutes":0}],
-							"3":[{"openHour":10,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}],
-							"4":[{"openHour":8,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}],
-							"5":[{"openHour":10,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}],
-							"6":[{"openHour":10,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}],
-							"7":[{"openHour":8,
-								"openMinutes":0,
-								"closeHour":15,
-								"closeMinutes":0}]
-		}
-	},
-
 	"bookOfMormon":{
 		"name":"Book of Mormon", 
 		"theater":"O'Neill\n230 W. 49th St\nbetween Broadway and 8th", 
