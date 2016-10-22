@@ -135,6 +135,43 @@
 		}
 	},
 
+	"encounter":{
+		"name":"The Encounter", 
+		"theater":"Golden\n252 W. 45th St\nbetween 7th and 8th", 
+		"price":40,
+		"url":"http://theencounterbroadwaylottery.com/",
+		"playbillName":"encounter.jpg",
+		"lotteryTimes": {	"1":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":0,
+								"closeMinutes":0}],
+							"2":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":0,
+								"closeMinutes":0}],
+							"3":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"4":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"5":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"6":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"7":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}]
+		}
+	},
+	
 	"falsettos":{
 		"name":"Falsettos", 
 		"theater":"Walter Kerr\n219 W. 48th St\nbetween Broadway and 8th", 
