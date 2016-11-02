@@ -209,6 +209,43 @@
 		}
 	},
 
+	"greatcomet":{
+		"name":"Natasha, Pierre & The Great Comet of 1812", 
+		"theater":"Imperial\n249 W. 45th St\nbetween 7th and 8th", 
+		"price":39,
+		"url":"http://greatcometbroadway.com/lottery.php",
+		"playbillName":"greatcomet.jpg",
+		"lotteryTimes": {	"1":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":0,
+								"closeMinutes":0}],
+							"2":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":0,
+								"closeMinutes":0}],
+							"3":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"4":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"5":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"6":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"7":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}]
+		}
+	},
+
 	"hamilton":{
 		"name":"Hamilton", 
 		"theater":"Richard Rodgers\n226 W. 46th St\nbetween Broadway and 8th", 
@@ -255,7 +292,7 @@
 
 	},
 
-"humans":{
+	"humans":{
 		"name":"The Humans", 
 		"theater":"Schoenfeld\n236 W. 45th St\nbetween 7th and 8th", 
 		"price":40,
@@ -367,27 +404,27 @@
 		}
 	},
 
-	"lewisBlack":{
- 		"name":"Lewis Black: Black to the Future", 
- 		"theater":"Marquis\n1535 Broadway\nat 46th", 
+	"kristin":{
+ 		"name":"Kristin Chenoweth: My Love Letter to Broadway", 
+ 		"theater":"Lunt-Fontanne\n205 W. 46th St\nbetween Broadway and 8th", 
 		"price":"40",
- 		"url":"https://lottery.broadwaydirect.com/show/lewis-black-black-to-the-future/",
- 		"playbillName":"lewisblack.jpg",
+ 		"url":"https://lottery.broadwaydirect.com/show/kristin-chenoweth/",
+ 		"playbillName":"kristin.jpg",
 		"lotteryTimes": {	"1":[{"openHour":0,
  								"openMinutes":0,
  								"closeHour":0,
  								"closeMinutes":0}],
  							"2":[{"openHour":0,
  								"openMinutes":0,
- 								"closeHour":15,
+ 								"closeHour":0,
  								"closeMinutes":0}],
  							"3":[{"openHour":0,
  								"openMinutes":0,
  								"closeHour":0,
  								"closeMinutes":0}],
- 							"4":[{"openHour":0,
+ 							"4":[{"openHour":8,
  								"openMinutes":0,
- 								"closeHour":0,
+ 								"closeHour":15,
  								"closeMinutes":0}],
  							"5":[{"openHour":0,
  								"openMinutes":0,
