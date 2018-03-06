@@ -283,6 +283,43 @@
 		}
 	},
 
+		"frozen":{
+		"name":"Frozen", 
+		"theater":"St. James\n246 W. 46th St\nbetween 7th and 8th", 
+		"price":30,
+		"url":"https://baa.turnkeysurveyor.com/se/5145A8F937B3D592",
+		"playbillName":"frozen.jpg",
+		"lotteryTimes": {	"1":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":24,
+								"closeMinutes":0}],
+							"2":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":24,
+								"closeMinutes":0}],
+							"3":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":24,
+								"closeMinutes":0}],
+							"4":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":24,
+								"closeMinutes":0}],
+							"5":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":24,
+								"closeMinutes":0}],
+							"6":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":24,
+								"closeMinutes":0}],
+							"7":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":24,
+								"closeMinutes":0}]
+		}
+	},
+
 	"hamilton":{
 		"name":"Hamilton", 
 		"theater":"Richard Rodgers\n226 W. 46th St\nbetween Broadway and 8th", 
