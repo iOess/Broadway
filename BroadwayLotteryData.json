@@ -151,6 +151,43 @@
 		}
 	},
 
+	"bandsvisit":{
+		"name":"Bands Visit", 
+		"theater":"Barrymore\n243 W. 47th St\nbetween Broadway and 8th", 
+		"price":40,
+		"url":"http://www.thebandsvisitlottery.com/",
+		"playbillName":"bandsvisit.jpg",
+		"lotteryTimes": {	"1":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":0,
+								"closeMinutes":0}],
+							"2":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":0,
+								"closeMinutes":0}],
+							"3":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"4":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"5":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"6":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}],
+							"7":[{"openHour":0,
+								"openMinutes":0,
+								"closeHour":15,
+								"closeMinutes":0}]
+		}
+	},
+	
 	"bookOfMormon":{
 		"name":"Book of Mormon", 
 		"theater":"O'Neill\n230 W. 49th St\nbetween Broadway and 8th", 
